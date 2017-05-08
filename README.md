@@ -52,4 +52,4 @@
 * [`Django`快速入门教程](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)  
 * [`Mongodb`快速入门教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)  
 * [`Git`入门教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
-
+* [`Anaconda`虚拟环境](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)  
